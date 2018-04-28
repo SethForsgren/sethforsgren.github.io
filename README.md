@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Seth Forsgren
 
 You can use the [editor on GitHub](https://github.com/SethForsgren/sethforsgren.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
